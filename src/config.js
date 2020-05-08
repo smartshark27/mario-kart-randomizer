@@ -14,8 +14,8 @@ const COLORS = {
 };
 
 const TEXT_FONT = "font-family: 'Lucida Console', Monaco, monospace;";
-const TITLE_TEXT_SIZE = 30;
-const VALUE_TEXT_SIZE = 60;
+const TITLE_TEXT_SIZE = 20;
+const VALUE_TEXT_SIZE = 40;
 const FPS = 10;
 const FRAME_DELAY = Math.floor(1000 / FPS);
 const DEFAULT_RANDOMIZE_TIME = 1000;
